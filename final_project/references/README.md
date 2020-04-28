@@ -1,4 +1,4 @@
-#References
+References
 1.Exploratory data analysis(https://github.com/abanskota/t81_577_data_science/blob/master/weekly_materials/week7/docs/eda.md)
 
 2.Linear regression modeling (https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
@@ -9,7 +9,7 @@
 
 5.MLP regression modeling(https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html)
 
-6. Github relative link(https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file)
+6.Github relative link(https://stackoverflow.com/questions/7653483/github-relative-link-in-markdown-file)
 
 Stackoverflow links:
 1. Data normalization(https://stats.stackexchange.com/questions/7757/data-normalization-and-standardization-in-neural-networks)
