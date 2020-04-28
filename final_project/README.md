@@ -1,4 +1,4 @@
-Project Name:Airbnb price prediction
+Project Name: Airbnb price prediction
 
 Project Intro: 
 The business goal of this project is to utilize many predicators to accurately predict 
