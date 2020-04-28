@@ -30,5 +30,7 @@ Getting Started:
 2.Raw Data is kept in the [data] folder.
 3. Notebooks are kept in the [notebooks] folder.
 
+"The work I submitted represents my work and my work alone.  I abode by the academic integrity policy and I am aware of the consequences associated with engaging in academic misconduct. "
+
 
 
