@@ -9,14 +9,18 @@ methods to build an predictive pricing model to let the household owners set pro
 prices for their new listings.
 
 Methods Used: 
-*Exploratory data analysis
-*Data Visualization
-*Predictive Modeling
+Exploratory data analysis
+
+Data Visualization
+
+Predictive Modeling
 
 
 Technologies: 
-*Python3
-*Jupyter
+
+Python3
+
+Jupyter
 
 Project Description: 
 The data source of this project is collected from (http://insideairbnb.com/get-the-data.html)
