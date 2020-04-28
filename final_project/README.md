@@ -28,7 +28,7 @@ regression to accurately predict prices for new Airbnb households.
 Getting Started:
 1.Clone this repo.
 2.Raw Data is kept in the [data](final_project/data/raw) folder.
-3. Notebooks are kept in the [notebooks] folder.
+3. Notebooks are kept in the [notebooks](info577_git_repo/tree/master/final_project/notebooks) folder.
 
 "The work I submitted represents my work and my work alone.  I abode by the academic integrity policy and I am aware of the consequences associated with engaging in academic misconduct. "
 
