@@ -1,4 +1,5 @@
 References
+
 1.Exploratory data analysis(https://github.com/abanskota/t81_577_data_science/blob/master/weekly_materials/week7/docs/eda.md)
 
 2.Linear regression modeling (https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
